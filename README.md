@@ -35,14 +35,12 @@ The system can detect motion, control electrical appliances, and display status 
 ## 🔌 Wiring Guide
 | Component | ESP32 Pin |
 |-----------|-----------|
-| PIR Sensor Output | GPIO 14 |
-| Relay Input | GPIO 27 |
+| PIR Sensor Output | GPIO 12 |
+| Relay Input | GPIO 15 |
 | LCD SDA | GPIO 21 |
 | LCD SCL | GPIO 22 |
 | VCC & GND | 3.3V / GND |
 
 > **Note:** Adjust pins in the code if you use different wiring.
 
-## 💻 Installation & Setup
-1. Install [Arduino IDE](https://www.arduino.cc/en/software)
-2. Add **ESP32 board support** via *File → Preferences → Additional Board Manager URLs*  
+ 
