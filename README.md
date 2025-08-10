@@ -18,7 +18,6 @@ The system can detect motion, control electrical appliances, and display status 
 - Jumper wires
 - Breadboard
 - USB cable for programming
-<<<<<<< HEAD
 ## 🖼️ Circuit View
 
 ![Circuit View](<Circuit View.png>)
@@ -51,8 +50,10 @@ The system can detect motion, control electrical appliances, and display status 
  ## 👨‍💻 Author
 
 **Tushar Chaudhari**
+
 *Electronics Enthusiast & Maker*
 
 
-=======
+
+
 
