@@ -24,7 +24,6 @@ The system can detect motion, control electrical appliances, and display status 
 ![Circuit View](<Circuit View.png>)
 =======
 
->>>>>>> 36f11367751e54ce55441717eafcbfad560cd4ae
 ## ⚙️ How It Works
 1. **Motion Detection:**  
    The PIR motion sensor detects movement within its range.
@@ -49,7 +48,6 @@ The system can detect motion, control electrical appliances, and display status 
 
 > **Note:** Adjust pins in the code if you use different wiring.
 
-<<<<<<< HEAD
  ## 👨‍💻 Author
 
 **Tushar Chaudhari**
@@ -57,5 +55,4 @@ The system can detect motion, control electrical appliances, and display status 
 
 
 =======
- 
->>>>>>> 36f11367751e54ce55441717eafcbfad560cd4ae
+
