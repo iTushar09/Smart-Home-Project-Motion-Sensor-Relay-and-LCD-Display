@@ -18,9 +18,13 @@ The system can detect motion, control electrical appliances, and display status 
 - Jumper wires
 - Breadboard
 - USB cable for programming
+<<<<<<< HEAD
 ## 🖼️ Circuit View
 
 ![Circuit View](<Circuit View.png>)
+=======
+
+>>>>>>> 36f11367751e54ce55441717eafcbfad560cd4ae
 ## ⚙️ How It Works
 1. **Motion Detection:**  
    The PIR motion sensor detects movement within its range.
@@ -45,9 +49,13 @@ The system can detect motion, control electrical appliances, and display status 
 
 > **Note:** Adjust pins in the code if you use different wiring.
 
+<<<<<<< HEAD
  ## 👨‍💻 Author
 
 **Tushar Chaudhari**
 *Electronics Enthusiast & Maker*
 
 
+=======
+ 
+>>>>>>> 36f11367751e54ce55441717eafcbfad560cd4ae
