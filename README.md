@@ -2,6 +2,10 @@
 
 This project demonstrates how to build a **smart home automation system** using an **ESP32 microcontroller**, **motion sensor**, **relay module**, and **LCD display**.  
 The system can detect motion, control electrical appliances, and display status messages in real-time.
+## 🚀 Live Simulation
+
+Click below to test the project:
+**[Hands-On Demo](https://wokwi.com/projects/438860110663645185)**
 
 ## 📌 Features
 - Motion detection using a PIR motion sensor
